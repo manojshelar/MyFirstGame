@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene PGFVersion="0.25" GSCVersion="1.25.6227" id="id497004">
+  <layers>
+    <layer id="id699438">
+      <actors>
+        <actor id="id482463" prototype="id857448">
+          <attributes>
+            <point id="position">
+              <real id="x">356</real>
+              <real id="y">120</real>
+            </point>
+            <size id="size">
+              <real id="width">30</real>
+              <real id="height">30</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <physics>
+              <attributes>
+                <enumeration id="collisionShape">1</enumeration>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id576695" prototype="id729791">
+          <attributes>
+            <point id="position">
+              <real id="x">113</real>
+              <real id="y">79</real>
+            </point>
+            <size id="size">
+              <real id="width">65</real>
+              <real id="height">82</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">lava02</image>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id397756" prototype="id729791">
+          <attributes>
+            <point id="position">
+              <real id="x">571</real>
+              <real id="y">159</real>
+            </point>
+            <size id="size">
+              <real id="width">120</real>
+              <real id="height">322</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <text id="name">lava Copy 1</text>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id860394" prototype="id729791">
+          <attributes>
+            <point id="position">
+              <real id="x">151</real>
+              <real id="y">185</real>
+            </point>
+            <size id="size">
+              <real id="width">66</real>
+              <real id="height">67</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">lava</image>
+            <text id="name">lava Copy 4</text>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id515762" prototype="id729791">
+          <attributes>
+            <point id="position">
+              <real id="x">350</real>
+              <real id="y">189</real>
+            </point>
+            <size id="size">
+              <real id="width">65</real>
+              <real id="height">65</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">lava</image>
+            <text id="name">lava Copy 5</text>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id781353" prototype="id729791">
+          <attributes>
+            <point id="position">
+              <real id="x">496</real>
+              <real id="y">176</real>
+            </point>
+            <size id="size">
+              <real id="width">70</real>
+              <real id="height">64</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">lava</image>
+            <text id="name">lava Copy 6</text>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id441073" prototype="id738322">
+          <attributes>
+            <point id="position">
+              <real id="x">121</real>
+              <real id="y">265</real>
+            </point>
+            <size id="size">
+              <real id="width">20</real>
+              <real id="height">20</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id953220" prototype="id738322">
+          <attributes>
+            <point id="position">
+              <real id="x">278</real>
+              <real id="y">226</real>
+            </point>
+            <size id="size">
+              <real id="width">20</real>
+              <real id="height">20</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id598158" prototype="id738322">
+          <attributes>
+            <point id="position">
+              <real id="x">465</real>
+              <real id="y">249</real>
+            </point>
+            <size id="size">
+              <real id="width">20</real>
+              <real id="height">20</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id326131" prototype="id738322">
+          <attributes>
+            <point id="position">
+              <real id="x">59</real>
+              <real id="y">214</real>
+            </point>
+            <size id="size">
+              <real id="width">20</real>
+              <real id="height">20</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id475988" prototype="id738322">
+          <attributes>
+            <point id="position">
+              <real id="x">442</real>
+              <real id="y">83</real>
+            </point>
+            <size id="size">
+              <real id="width">20</real>
+              <real id="height">20</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id193844" prototype="id325350">
+          <attributes>
+            <point id="position">
+              <real id="x">506</real>
+              <real id="y">52</real>
+            </point>
+            <size id="size">
+              <real id="width">83</real>
+              <real id="height">43</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+      </actors>
+      <attributes>
+        <text id="name">Background</text>
+        <boolean id="scrollable">true</boolean>
+      </attributes>
+    </layer>
+  </layers>
+  <attributes>
+    <text id="name">level 2</text>
+    <real id="time">0</real>
+    <size id="size">
+      <real id="width">568</real>
+      <real id="height">320</real>
+    </size>
+    <boolean id="wrapX">false</boolean>
+    <boolean id="wrapY">false</boolean>
+    <point id="gravity">
+      <real id="x">0</real>
+      <real id="y">0</real>
+    </point>
+    <color id="color">
+      <real id="red">0</real>
+      <real id="green">0</real>
+      <real id="blue">0</real>
+      <real id="alpha">1</real>
+    </color>
+    <rect id="camera">
+      <point id="origin">
+        <real id="x">0</real>
+        <real id="y">0</real>
+      </point>
+      <size id="size">
+        <real id="width">568</real>
+        <real id="height">320</real>
+      </size>
+      <size id="trackingArea">
+        <real id="width">532.25439453125</real>
+        <real id="height">260</real>
+      </size>
+      <real id="rotation">0</real>
+    </rect>
+    <attributes id="autorotate">
+      <boolean id="landscapeLeft">true</boolean>
+      <boolean id="portrait">false</boolean>
+      <boolean id="landscapeRight">false</boolean>
+      <boolean id="portraitUpsideDown">false</boolean>
+    </attributes>
+  </attributes>
+</scene>
